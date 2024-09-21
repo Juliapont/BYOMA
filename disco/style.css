@@ -1,0 +1,46 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    header img{
+        width: 100vw;
+        height: 75vh;
+    }
+    .sabrina{
+        display: flex;
+        align-items: center;
+        justify-content:center ;
+    }
+    .sabrina img{
+        width: 20vw;
+        border-radius: 1em;
+        height: 50vh;
+    }
+
+        .olivia{
+            display: flex;
+            align-items: center;
+            justify-content:center ;
+        }
+            .olivia img{
+            
+                width: 20vw;
+                border-radius: 1em;
+                height: 50vh;}
+                .camila{
+                    display: flex;
+                    align-items: center;
+                    justify-content:center ;}
+    .camila img{
+       
+        width: 20vw;
+        border-radius: 1em;
+        height: 50vh;
+    }
